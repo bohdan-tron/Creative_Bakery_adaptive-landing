@@ -1,5 +1,5 @@
 # Creative Bakery adaptive landing
-Here is the [DEMO LINK](https://bohdan-tron.github.io/Creative_Bakery_adaptive-landing/) of landing that I made through this [MOKUP](https://www.figma.com/file/dY3izAm0Vspsmra4lQWQIP/Bakerlab_FE-students?node-id=11342%3A1117)
+Here is the [DEMO LINK](https://bohdan-tron.github.io/Creative_Bakery_adaptive-landing/) of landing that I made through this [MOCKUP](https://www.figma.com/file/dY3izAm0Vspsmra4lQWQIP/Bakerlab_FE-students?node-id=11342%3A1117)
 
 # What was used?
 - HTML
